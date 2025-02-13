@@ -36,6 +36,5 @@ Versatile skills beyond web development
 ---
 
 ## 💼 Connect with me:
-- [GitHub](https://github.com/yassn0)
 - [LinkedIn](https://www.linkedin.com/in/yassin-fradj-3460042a1)
 - yassinfradj28@gmail.com
