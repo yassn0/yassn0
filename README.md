@@ -1,8 +1,3 @@
-# Hi 👋, I'm Yassn0
-
-A passionate full-stack developer. Always learning, exploring new technologies, and optimizing my workflow for better results.
-
----
 
 ## 🚀 Frontend
 
@@ -17,8 +12,8 @@ Crafting seamless and engaging user experiences
 
 Building scalable, secure, and efficient server-side applications
 
-- 🖥 **Stack**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white), ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white), ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-- 📦 **Databases**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white), ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white), ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white), ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+- 🖥 **Stack**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white), ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+- 📦 **Databases**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white),  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white), ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 - 🛡 **Security**: ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white), ![OAuth](https://img.shields.io/badge/-OAuth-000000?style=flat&logo=oauth&logoColor=white), ![RBAC](https://img.shields.io/badge/-RBAC-000000?style=flat&logo=security&logoColor=white), ![Smart Caching](https://img.shields.io/badge/-Smart%20Caching-4B0082?style=flat&logo=cache&logoColor=white)
 - ⚙️ **Scalability**: ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
