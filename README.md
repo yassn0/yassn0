@@ -1,16 +1,11 @@
 
 ## 🚀 Frontend
 
-Crafting seamless and engaging user experiences
-
 - 💡 **Stack**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white), ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white), ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white), ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
-- 🔗 **API & Data**: ![REST](https://img.shields.io/badge/-REST-25D366?style=flat&logo=api&logoColor=white)
 
 ---
 
 ## 🛠 Backend
-
-Building scalable, secure, and efficient server-side applications
 
 - 🖥 **Stack**: ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white), ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 - 📦 **Databases**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white),  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white).
@@ -30,5 +25,4 @@ Versatile skills beyond web development
 ---
 
 ## 💼 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/yassin-fradj-3460042a1)
-- yassinfradj28@gmail.com
+-  Discord: yassin28
